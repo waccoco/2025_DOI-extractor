@@ -6,5 +6,6 @@ def doi_to_bibtex(doi):
     response = requests.get(url, headers=headers)
     return response.text
 
-pdrint(doi_to_bibtex("http://dx.doi.org/10.2139/ssrn.5209683",))
+input_doi = "http://dx.doi.org/10.2139/ssrn.5209683"
+pdrint(doi_to_bibtex(input_doi,))
 

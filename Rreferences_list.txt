@@ -1,0 +1,2 @@
+[1] Chang, Yao-Jen and Jui, Chia-Yung and Lee, Wen-Jay and Yeh, An-Chou, "Prediction of the Composition and Hardness of High-Entropy Alloys by Machine Learning," JOM, 71 (2019), 3433–3442. https://doi.org/10.1007/s11837-019-03704-4
+[2] He, Jianye and Li, Zezhou and Lin, Jingchen and Zhao, Pingluo and Zhang, Hongmei and Zhang, Fan and Wang, Lin and Cheng, Xingwang, "Machine learning-assisted design of refractory high-entropy alloys with targeted yield strength and fracture strain," Materials &amp; Design, 246 (2024), 113326. https://doi.org/10.1016/j.matdes.2024.113326
