@@ -44,10 +44,10 @@ After execution, the following files will be generated:
 
 
 ## 📂 Repository Structure
-├── doi_list.txt               # Your input list of DOIs
-├── doi_to_bibtex.py          # The main script
-├── output_references.bib     # BibTeX output
-└── formatted_references.txt  # Formatted output
+### ├── doi_list.txt               # Your input list of DOIs
+### ├── doi_to_bibtex.py          # The main script
+### ├── output_references.bib     # BibTeX output
+### └── formatted_references.txt  # Formatted output
 
 🔗 License
 This project is licensed under the MIT License.
